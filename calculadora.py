@@ -7,6 +7,6 @@ def calculadora(n1, n2, operation):
     elif operation == 3:
         resultado = n1 * n2
     elif operation == 4:
-        operation = n1 / n2
+        resultado = n1 / n2
     return resultado
 
